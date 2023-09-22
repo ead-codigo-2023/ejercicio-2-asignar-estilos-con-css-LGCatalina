@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 90px; /* 125% */;
+    text-transform:uppercase;
+}
+a {
+    padding: 12px 22px;
+    color: #fff;
+    background-color: #000;
+    border-radius: 8px;
+}
+.hero { 
+    width: 1280px;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    background-color: #fafafa;
+    background-image: url(../imagen/image.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    border-radius: 40px;
+}
+.hero___body {
+width: 450px;
+}
+
